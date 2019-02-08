@@ -64,6 +64,7 @@
     <Compile Include="TestEncryptor.cs" />
     <Compile Include="TestEntity.cs" />
     <Compile Include="TestLogFile.cs" />
+    <Compile Include="TestReflex.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
