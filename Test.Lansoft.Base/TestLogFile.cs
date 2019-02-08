@@ -9,7 +9,7 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System;
 using Lansoft.Base;
 
-namespace NUnit.Lansoft.Base
+namespace Test.Lansoft.Base
 {
 
     [TestClass]
