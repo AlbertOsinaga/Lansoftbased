@@ -11,7 +11,7 @@ using System.Xml;
 
 using Lansoft.Base;
 
-namespace NUnit.Lansoft.Base
+namespace Test.Lansoft.Base
 {
     [TestClass]
     public class TestXml
