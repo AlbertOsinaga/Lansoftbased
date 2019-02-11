@@ -70,6 +70,7 @@
     <Compile Include="TestLogFile.cs" />
     <Compile Include="TestReflex.cs" />
     <Compile Include="TestSQLiteDB.cs" />
+    <Compile Include="TestXml.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
